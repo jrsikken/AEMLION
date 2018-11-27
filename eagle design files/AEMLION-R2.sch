@@ -226,55 +226,6 @@
 <rectangle x1="-0.708" y1="-0.4" x2="-0.308" y2="0.4" layer="41"/>
 <smd name="3" x="1.016" y="0" dx="0.635" dy="0.65" layer="1" cream="no"/>
 </package>
-<package name="QFN50P505X505X90-28" urn="urn:adsk.eagle:footprint:2265651/1" locally_modified="yes">
-<description>28-QFN, 0.5 mm pitch, 5.05 X 5.05 X 0.9 mm body
-&lt;p&gt;28-pin QFN package with 0.5 mm pitch with body size 5.05 X 5.05 X 0.9 mm&lt;/p&gt;</description>
-<circle x="-3.0125" y="2.1752" radius="0.25" width="0" layer="21"/>
-<wire x1="-2.55" y1="1.9002" x2="-2.55" y2="2.55" width="0.12" layer="21"/>
-<wire x1="-2.55" y1="2.55" x2="-1.9002" y2="2.55" width="0.12" layer="21"/>
-<wire x1="2.55" y1="1.9002" x2="2.55" y2="2.55" width="0.12" layer="21"/>
-<wire x1="2.55" y1="2.55" x2="1.9002" y2="2.55" width="0.12" layer="21"/>
-<wire x1="2.55" y1="-1.9002" x2="2.55" y2="-2.55" width="0.12" layer="21"/>
-<wire x1="2.55" y1="-2.55" x2="1.9002" y2="-2.55" width="0.12" layer="21"/>
-<wire x1="-2.55" y1="-1.9002" x2="-2.55" y2="-2.55" width="0.12" layer="21"/>
-<wire x1="-2.55" y1="-2.55" x2="-1.9002" y2="-2.55" width="0.12" layer="21"/>
-<wire x1="2.55" y1="-2.55" x2="-2.55" y2="-2.55" width="0.12" layer="51"/>
-<wire x1="-2.55" y1="-2.55" x2="-2.55" y2="2.55" width="0.12" layer="51"/>
-<wire x1="-2.55" y1="2.55" x2="2.55" y2="2.55" width="0.12" layer="51"/>
-<wire x1="2.55" y1="2.55" x2="2.55" y2="-2.55" width="0.12" layer="51"/>
-<smd name="1" x="-2.4864" y="1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="2" x="-2.4864" y="1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="3" x="-2.4864" y="0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="4" x="-2.4864" y="0" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="5" x="-2.4864" y="-0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="6" x="-2.4864" y="-1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="7" x="-2.4864" y="-1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="8" x="-1.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="9" x="-1" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="10" x="-0.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="11" x="0" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="12" x="0.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="13" x="1" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="14" x="1.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="15" x="2.4864" y="-1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="16" x="2.4864" y="-1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="17" x="2.4864" y="-0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="18" x="2.4864" y="0" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="19" x="2.4864" y="0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="20" x="2.4864" y="1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="21" x="2.4864" y="1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
-<smd name="22" x="1.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="23" x="1" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="24" x="0.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="25" x="0" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="26" x="-0.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="27" x="-1" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<smd name="28" x="-1.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
-<text x="4.1" y="0.41" size="0.8128" layer="25">&gt;NAME</text>
-<text x="4.1" y="-1.01" size="0.8128" layer="27">&gt;VALUE</text>
-<smd name="29" x="0" y="0" dx="3.25" dy="3.25" layer="1"/>
-<rectangle x1="-2.4" y1="-2.4" x2="2.4" y2="2.4" layer="41"/>
-</package>
 <package name="SJ_3WAY_12SHORT">
 <wire x1="2.159" y1="-1.016" x2="-2.159" y2="-1.016" width="0.1524" layer="21"/>
 <wire x1="2.159" y1="1.016" x2="2.413" y2="0.762" width="0.1524" layer="21" curve="-90"/>
@@ -299,15 +250,6 @@
 <wire x1="-1.27" y1="0" x2="0" y2="0" width="0.2032" layer="1"/>
 </package>
 </packages>
-<packages3d>
-<package3d name="QFN50P505X505X90-28" urn="urn:adsk.eagle:package:2265650/1" locally_modified="yes" type="model">
-<description>28-QFN, 0.5 mm pitch, 5.05 X 5.05 X 0.9 mm body
-&lt;p&gt;28-pin QFN package with 0.5 mm pitch with body size 5.05 X 5.05 X 0.9 mm&lt;/p&gt;</description>
-<packageinstances>
-<packageinstance name="QFN50P505X505X90-28"/>
-</packageinstances>
-</package3d>
-</packages3d>
 <symbols>
 <symbol name="SJ_3WAY_12SHORT">
 <wire x1="-0.635" y1="-1.397" x2="0.635" y2="-1.397" width="1.27" layer="94" curve="180" cap="flat"/>
@@ -324,43 +266,6 @@
 <pin name="1" x="0" y="5.08" visible="off" length="short" direction="pas" rot="R270"/>
 <pin name="2" x="-5.08" y="0" visible="off" length="short" direction="pas"/>
 <wire x1="0" y1="2.54" x2="0" y2="0" width="0.254" layer="94"/>
-</symbol>
-<symbol name="AEM10941">
-<wire x1="-21.59" y1="33.02" x2="21.59" y2="33.02" width="0.254" layer="94"/>
-<wire x1="21.59" y1="33.02" x2="21.59" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="21.59" y1="-33.02" x2="-21.59" y2="-33.02" width="0.254" layer="94"/>
-<wire x1="-21.59" y1="-33.02" x2="-21.59" y2="33.02" width="0.254" layer="94"/>
-<pin name="BAL" x="26.67" y="7.62" length="middle" rot="R180"/>
-<pin name="LVOUT" x="26.67" y="2.54" length="middle" rot="R180"/>
-<pin name="HVOUT" x="26.67" y="-2.54" length="middle" rot="R180"/>
-<pin name="SET_OVCH" x="26.67" y="-7.62" length="middle" rot="R180"/>
-<pin name="FB_HV" x="26.67" y="-17.78" length="middle" rot="R180"/>
-<pin name="STATUS2" x="26.67" y="-22.86" length="middle" rot="R180"/>
-<pin name="STATUS1" x="26.67" y="-25.4" length="middle" rot="R180"/>
-<pin name="STATUS0" x="26.67" y="-27.94" length="middle" rot="R180"/>
-<pin name="CFG2" x="-26.67" y="-17.78" length="middle"/>
-<pin name="SELMPP0" x="-26.67" y="-12.7" length="middle"/>
-<pin name="BOOST" x="-26.67" y="10.16" length="middle"/>
-<pin name="SWBOOST" x="-26.67" y="12.7" length="middle" direction="pwr"/>
-<pin name="FB_COLD" x="-26.67" y="22.86" length="middle" direction="in"/>
-<pin name="SRC" x="-26.67" y="27.94" length="middle" direction="pwr"/>
-<pin name="BUFSRC" x="-26.67" y="17.78" length="middle" direction="pwr"/>
-<text x="-21.59" y="-36.83" size="2.54" layer="95">&gt;NAME</text>
-<text x="-21.59" y="34.29" size="2.54" layer="96">&gt;VALUE</text>
-<pin name="SWBUCK" x="-26.67" y="5.08" length="middle"/>
-<pin name="SELMPP1" x="-26.67" y="-10.16" length="middle"/>
-<pin name="PRIM" x="26.67" y="27.94" length="middle" rot="R180"/>
-<pin name="FBPRIM_U" x="26.67" y="22.86" length="middle" rot="R180"/>
-<pin name="FBPRIM_D" x="26.67" y="17.78" length="middle" rot="R180"/>
-<pin name="BATT" x="26.67" y="12.7" length="middle" rot="R180"/>
-<pin name="SET_CHRDY" x="26.67" y="-10.16" length="middle" rot="R180"/>
-<pin name="SET_OVDIS" x="26.67" y="-12.7" length="middle" rot="R180"/>
-<pin name="CFG0" x="-26.67" y="-22.86" length="middle"/>
-<pin name="CFG1" x="-26.67" y="-20.32" length="middle"/>
-<pin name="BUCK" x="-26.67" y="2.54" length="middle"/>
-<pin name="ENHV" x="-26.67" y="-2.54" length="middle"/>
-<pin name="ENLV" x="-26.67" y="-5.08" length="middle"/>
-<pin name="EPAD" x="-26.67" y="-27.94" length="middle" direction="pwr"/>
 </symbol>
 <symbol name="3.3V">
 <wire x1="0.762" y1="1.27" x2="0" y2="2.54" width="0.254" layer="94"/>
@@ -393,57 +298,6 @@
 </connects>
 <technologies>
 <technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="AEM10941" prefix="IC">
-<description>Ambient Energy Manager from e-peas</description>
-<gates>
-<gate name="G$1" symbol="AEM10941" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="QFN50P505X505X90-28">
-<connects>
-<connect gate="G$1" pin="BAL" pad="15"/>
-<connect gate="G$1" pin="BATT" pad="16"/>
-<connect gate="G$1" pin="BOOST" pad="1"/>
-<connect gate="G$1" pin="BUCK" pad="3"/>
-<connect gate="G$1" pin="BUFSRC" pad="27"/>
-<connect gate="G$1" pin="CFG0" pad="6"/>
-<connect gate="G$1" pin="CFG1" pad="5"/>
-<connect gate="G$1" pin="CFG2" pad="4"/>
-<connect gate="G$1" pin="ENHV" pad="12"/>
-<connect gate="G$1" pin="ENLV" pad="18"/>
-<connect gate="G$1" pin="EPAD" pad="29"/>
-<connect gate="G$1" pin="FBPRIM_D" pad="9"/>
-<connect gate="G$1" pin="FBPRIM_U" pad="10"/>
-<connect gate="G$1" pin="FB_COLD" pad="26"/>
-<connect gate="G$1" pin="FB_HV" pad="13"/>
-<connect gate="G$1" pin="HVOUT" pad="14"/>
-<connect gate="G$1" pin="LVOUT" pad="11"/>
-<connect gate="G$1" pin="PRIM" pad="17"/>
-<connect gate="G$1" pin="SELMPP0" pad="8"/>
-<connect gate="G$1" pin="SELMPP1" pad="7"/>
-<connect gate="G$1" pin="SET_CHRDY" pad="23"/>
-<connect gate="G$1" pin="SET_OVCH" pad="22"/>
-<connect gate="G$1" pin="SET_OVDIS" pad="24"/>
-<connect gate="G$1" pin="SRC" pad="25"/>
-<connect gate="G$1" pin="STATUS0" pad="21"/>
-<connect gate="G$1" pin="STATUS1" pad="20"/>
-<connect gate="G$1" pin="STATUS2" pad="19"/>
-<connect gate="G$1" pin="SWBOOST" pad="28"/>
-<connect gate="G$1" pin="SWBUCK" pad="2"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:2265650/1"/>
-</package3dinstances>
-<technologies>
-<technology name="">
-<attribute name="MF" value="e-peas" constant="no"/>
-<attribute name="MPN" value="AEM10941" constant="no"/>
-<attribute name="VALUE" value="AEM10941" constant="no"/>
-</technology>
 </technologies>
 </device>
 </devices>
@@ -841,6 +695,59 @@ KEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Wafe solder</description>
 <rectangle x1="7.366" y1="-0.254" x2="7.874" y2="0.254" layer="51"/>
 <rectangle x1="9.906" y1="-0.254" x2="10.414" y2="0.254" layer="51"/>
 </package>
+<package name="QFN50P505X505X90-28">
+<description>28-QFN, 0.5 mm pitch, 5.05 X 5.05 X 0.9 mm body
+&lt;p&gt;28-pin QFN package with 0.5 mm pitch with body size 5.05 X 5.05 X 0.9 mm&lt;/p&gt;</description>
+<circle x="-3.0125" y="2.1752" radius="0.25" width="0" layer="21"/>
+<wire x1="-2.55" y1="1.9002" x2="-2.55" y2="2.55" width="0.12" layer="21"/>
+<wire x1="-2.55" y1="2.55" x2="-1.9002" y2="2.55" width="0.12" layer="21"/>
+<wire x1="2.55" y1="1.9002" x2="2.55" y2="2.55" width="0.12" layer="21"/>
+<wire x1="2.55" y1="2.55" x2="1.9002" y2="2.55" width="0.12" layer="21"/>
+<wire x1="2.55" y1="-1.9002" x2="2.55" y2="-2.55" width="0.12" layer="21"/>
+<wire x1="2.55" y1="-2.55" x2="1.9002" y2="-2.55" width="0.12" layer="21"/>
+<wire x1="-2.55" y1="-1.9002" x2="-2.55" y2="-2.55" width="0.12" layer="21"/>
+<wire x1="-2.55" y1="-2.55" x2="-1.9002" y2="-2.55" width="0.12" layer="21"/>
+<wire x1="2.55" y1="-2.55" x2="-2.55" y2="-2.55" width="0.12" layer="51"/>
+<wire x1="-2.55" y1="-2.55" x2="-2.55" y2="2.55" width="0.12" layer="51"/>
+<wire x1="-2.55" y1="2.55" x2="2.55" y2="2.55" width="0.12" layer="51"/>
+<wire x1="2.55" y1="2.55" x2="2.55" y2="-2.55" width="0.12" layer="51"/>
+<rectangle x1="-2.4" y1="-2.4" x2="2.4" y2="2.4" layer="41"/>
+<smd name="1" x="-2.4864" y="1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="2" x="-2.4864" y="1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="3" x="-2.4864" y="0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="4" x="-2.4864" y="0" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="5" x="-2.4864" y="-0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="6" x="-2.4864" y="-1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="7" x="-2.4864" y="-1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="8" x="-1.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="9" x="-1" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="10" x="-0.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="11" x="0" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="12" x="0.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="13" x="1" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="14" x="1.5" y="-2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="15" x="2.4864" y="-1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="16" x="2.4864" y="-1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="17" x="2.4864" y="-0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="18" x="2.4864" y="0" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="19" x="2.4864" y="0.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="20" x="2.4864" y="1" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="21" x="2.4864" y="1.5" dx="0.9773" dy="0.2925" layer="1" roundness="100" thermals="no"/>
+<smd name="22" x="1.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="23" x="1" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="24" x="0.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="25" x="0" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="26" x="-0.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="27" x="-1" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="28" x="-1.5" y="2.4864" dx="0.9773" dy="0.2925" layer="1" roundness="100" rot="R90" thermals="no"/>
+<smd name="29" x="0" y="0" dx="3.25" dy="3.25" layer="1" cream="no"/>
+<text x="4.1" y="0.41" size="0.8128" layer="25">&gt;NAME</text>
+<text x="4.1" y="-1.01" size="0.8128" layer="27">&gt;VALUE</text>
+<rectangle x1="-1.2" y1="-1.2" x2="-0.2" y2="-0.2" layer="31"/>
+<rectangle x1="0.2" y1="-1.2" x2="1.2" y2="-0.2" layer="31"/>
+<rectangle x1="-1.2" y1="0.2" x2="-0.2" y2="1.2" layer="31"/>
+<rectangle x1="0.2" y1="0.2" x2="1.2" y2="1.2" layer="31"/>
+</package>
 </packages>
 <symbols>
 <symbol name="INDUCTOR">
@@ -932,6 +839,43 @@ KEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Wafe solder</description>
 <pin name="5" x="5.08" y="5.08" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
 <text x="-5.08" y="-10.16" size="1.778" layer="96">&gt;VALUE</text>
 <text x="-5.08" y="8.382" size="1.778" layer="95">&gt;NAME</text>
+</symbol>
+<symbol name="AEM10941">
+<wire x1="-21.59" y1="33.02" x2="21.59" y2="33.02" width="0.254" layer="94"/>
+<wire x1="21.59" y1="33.02" x2="21.59" y2="-33.02" width="0.254" layer="94"/>
+<wire x1="21.59" y1="-33.02" x2="-21.59" y2="-33.02" width="0.254" layer="94"/>
+<wire x1="-21.59" y1="-33.02" x2="-21.59" y2="33.02" width="0.254" layer="94"/>
+<pin name="BAL" x="26.67" y="7.62" length="middle" rot="R180"/>
+<pin name="BATT" x="26.67" y="12.7" length="middle" rot="R180"/>
+<pin name="BOOST" x="-26.67" y="10.16" length="middle"/>
+<pin name="BUCK" x="-26.67" y="2.54" length="middle"/>
+<pin name="BUFSRC" x="-26.67" y="17.78" length="middle" direction="pwr"/>
+<pin name="CFG0" x="-26.67" y="-22.86" length="middle"/>
+<pin name="CFG1" x="-26.67" y="-20.32" length="middle"/>
+<pin name="CFG2" x="-26.67" y="-17.78" length="middle"/>
+<pin name="ENHV" x="-26.67" y="-2.54" length="middle"/>
+<pin name="ENLV" x="-26.67" y="-5.08" length="middle"/>
+<pin name="EPAD" x="-26.67" y="-27.94" length="middle" direction="pwr"/>
+<pin name="FBPRIM_D" x="26.67" y="17.78" length="middle" rot="R180"/>
+<pin name="FBPRIM_U" x="26.67" y="22.86" length="middle" rot="R180"/>
+<pin name="FB_COLD" x="-26.67" y="22.86" length="middle" direction="in"/>
+<pin name="FB_HV" x="26.67" y="-17.78" length="middle" rot="R180"/>
+<pin name="HVOUT" x="26.67" y="-2.54" length="middle" rot="R180"/>
+<pin name="LVOUT" x="26.67" y="2.54" length="middle" rot="R180"/>
+<pin name="PRIM" x="26.67" y="27.94" length="middle" rot="R180"/>
+<pin name="SELMPP0" x="-26.67" y="-12.7" length="middle"/>
+<pin name="SELMPP1" x="-26.67" y="-10.16" length="middle"/>
+<pin name="SET_CHRDY" x="26.67" y="-10.16" length="middle" rot="R180"/>
+<pin name="SET_OVCH" x="26.67" y="-7.62" length="middle" rot="R180"/>
+<pin name="SET_OVDIS" x="26.67" y="-12.7" length="middle" rot="R180"/>
+<pin name="SRC" x="-26.67" y="27.94" length="middle" direction="pwr"/>
+<pin name="STATUS0" x="26.67" y="-27.94" length="middle" rot="R180"/>
+<pin name="STATUS1" x="26.67" y="-25.4" length="middle" rot="R180"/>
+<pin name="STATUS2" x="26.67" y="-22.86" length="middle" rot="R180"/>
+<pin name="SWBOOST" x="-26.67" y="12.7" length="middle" direction="pwr"/>
+<pin name="SWBUCK" x="-26.67" y="5.08" length="middle"/>
+<text x="-21.59" y="-36.83" size="2.54" layer="95">&gt;NAME</text>
+<text x="-21.59" y="34.29" size="2.54" layer="96">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -3682,6 +3626,54 @@ KEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Wafe solder</description>
 </device>
 </devices>
 </deviceset>
+<deviceset name="AEM10941" prefix="IC">
+<description>Ambient Energy Manager from e-peas</description>
+<gates>
+<gate name="G$1" symbol="AEM10941" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="QFN50P505X505X90-28">
+<connects>
+<connect gate="G$1" pin="BAL" pad="15"/>
+<connect gate="G$1" pin="BATT" pad="16"/>
+<connect gate="G$1" pin="BOOST" pad="1"/>
+<connect gate="G$1" pin="BUCK" pad="3"/>
+<connect gate="G$1" pin="BUFSRC" pad="27"/>
+<connect gate="G$1" pin="CFG0" pad="6"/>
+<connect gate="G$1" pin="CFG1" pad="5"/>
+<connect gate="G$1" pin="CFG2" pad="4"/>
+<connect gate="G$1" pin="ENHV" pad="12"/>
+<connect gate="G$1" pin="ENLV" pad="18"/>
+<connect gate="G$1" pin="EPAD" pad="29"/>
+<connect gate="G$1" pin="FBPRIM_D" pad="9"/>
+<connect gate="G$1" pin="FBPRIM_U" pad="10"/>
+<connect gate="G$1" pin="FB_COLD" pad="26"/>
+<connect gate="G$1" pin="FB_HV" pad="13"/>
+<connect gate="G$1" pin="HVOUT" pad="14"/>
+<connect gate="G$1" pin="LVOUT" pad="11"/>
+<connect gate="G$1" pin="PRIM" pad="17"/>
+<connect gate="G$1" pin="SELMPP0" pad="8"/>
+<connect gate="G$1" pin="SELMPP1" pad="7"/>
+<connect gate="G$1" pin="SET_CHRDY" pad="23"/>
+<connect gate="G$1" pin="SET_OVCH" pad="22"/>
+<connect gate="G$1" pin="SET_OVDIS" pad="24"/>
+<connect gate="G$1" pin="SRC" pad="25"/>
+<connect gate="G$1" pin="STATUS0" pad="21"/>
+<connect gate="G$1" pin="STATUS1" pad="20"/>
+<connect gate="G$1" pin="STATUS2" pad="19"/>
+<connect gate="G$1" pin="SWBOOST" pad="28"/>
+<connect gate="G$1" pin="SWBUCK" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="MF" value="e-peas" constant="no"/>
+<attribute name="MPN" value="AEM10941" constant="no"/>
+<attribute name="VALUE" value="AEM10941" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 <library name="TSEM_R2A">
@@ -3930,7 +3922,7 @@ by exp-lbrs.ulp</description>
 </class>
 </classes>
 <parts>
-<part name="IC1" library="sodaq" deviceset="AEM10941" device="" package3d_urn="urn:adsk.eagle:package:2265650/1" value="AEM10941"/>
+<part name="IC1" library="TSEM" deviceset="AEM10941" device="" value="AEM10941"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="L2" library="TSEM" deviceset="L" device="0603_10UH" value="10uH"/>
 <part name="L1" library="TSEM" deviceset="L" device="3.9X3.9_10UH_0.55A" value="10uH-0.55A"/>
@@ -3985,6 +3977,8 @@ see datasheet AEM109410</text>
 <text x="220.98" y="125.73" size="1.778" layer="97">reverse
 voltage
 protection</text>
+<text x="163.83" y="16.51" size="1.778" layer="97">R2B reduced solder paste 
+on IC1 exposed pad to 50%</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="140.97" y="102.87"/>
@@ -4379,11 +4373,6 @@ with this version.
 Since Version 8.3, EAGLE supports URNs for individual library
 assets (packages, symbols, and devices). The URNs of those assets
 will not be understood (or retained) with this version.
-</note>
-<note version="8.3" severity="warning">
-Since Version 8.3, EAGLE supports the association of 3D packages
-with devices in libraries, schematics, and board files. Those 3D
-packages will not be understood (or retained) with this version.
 </note>
 </compatibility>
 </eagle>
