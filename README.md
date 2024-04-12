@@ -5,4 +5,4 @@ I sell this board on Tindie. https://www.tindie.com/products/14711/
 
 This project is on Hackaday https://hackaday.io/project/160376/
 
-<img src=https://cdn.tindiemedia.com/images/resize/9AwhgPMVQEUJv3bARH3aLIh8onM=/p/full-fit-in/2336x1752/i/20561/products/2024-04-12T18%3A45%3A43.055Z-2024-04-11%2012.23.40.jpg>
+<img src="https://cdn.tindiemedia.com/images/resize/9AwhgPMVQEUJv3bARH3aLIh8onM=/p/full-fit-in/2336x1752/i/20561/products/2024-04-12T18%3A45%3A43.055Z-2024-04-11%2012.23.40.jpg">
